@@ -1,0 +1,2 @@
+[LOW] No risky sudo misconfiguration found
+
