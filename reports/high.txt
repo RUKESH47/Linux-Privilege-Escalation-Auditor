@@ -1,3 +1,0 @@
-[HIGH] Writable /etc/passwd detected
-Fix: chmod 644 /etc/passwd
-
