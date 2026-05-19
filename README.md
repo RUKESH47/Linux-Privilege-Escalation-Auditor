@@ -1,25 +1,25 @@
-# Linux Privilege Escalation Auditor 🔐
+# Linux Privilege Escalation Auditor 
 
-## 📌 Project Overview
+##  Project Overview
 This project is a security auditing tool designed to identify potential privilege escalation vulnerabilities in Linux systems.
 
-## 🚀 Features
+##  Features
 - Detects SUID/SGID binaries
 - Checks misconfigured permissions
 - Identifies vulnerable services
 - Scans cron jobs and PATH issues
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Linux
 - Bash / Python
 - Networking Concepts
 
-## 📂 Project Structure
+##  Project Structure
 - scripts/
 - reports/
 - logs/
 
-## ⚡ How to Run
+##  How to Run
 ```bash
 chmod +x auditor.sh
 ./auditor.sh
